@@ -22,6 +22,8 @@ Flashing section to flash 24 different partitions via fastboot. Supports ".img" 
 
 Kaspersky and 6 unknown vendors flag QuickADB as trojan. This is a false-positive alert. It happens because the program was compiled with PyInstaller, so it doesn't have a signature.
 
+This software uses ssut's payload-dumper-go for payload extraction functionality, which is licensed under the Apache License 2.0.
+
 ### [Buy Me a Coffee](https://buymeacoffee.com/fl0w)
 
 ### [View XDA Thread](https://xdaforums.com/t/tool-quickadb-a-gui-to-execute-adb-fastboot-commands.4690673/) 
