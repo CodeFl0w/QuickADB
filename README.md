@@ -1,6 +1,6 @@
 # QuickADB
-## a Python based GUI for ADB &amp; Fastboot commands
 
+## a Python based GUI for ADB &amp; Fastboot commands
 Simple GUI created in Python in effort to make ADB &amp; Fastboot commands faster and easier for both beginners and experts. 
 
 ## FEATURES
@@ -15,15 +15,18 @@ Fastboot section to reboot into different modes and checking getvar variables. S
 
 Flashing section to flash 24 different partitions via fastboot. Supports ".img" and ".bin" files.
 
+[V2.0.0] Advanced tab. Automatic driver installers, payload dumper powered by [@ssut's payload-dumper-go](https://github.com/ssut/payload-dumper-go), ADB debloater, Magisk installer and more.
 ## NOTES
 
 **Always** keep an eye on the logs while flashing an image. If you get a faulty output, please use the terminal and flash the image manually before rebooting your device.
 
+Kaspersky and 6 unknown vendors flag QuickADB as trojan. This is a false-positive alert. It happens because the program was compiled with PyInstaller, so it doesn't have a signature.
 
 ### [Buy Me a Coffee](https://buymeacoffee.com/fl0w)
 
 ### [View XDA Thread](https://xdaforums.com/t/tool-quickadb-a-gui-to-execute-adb-fastboot-commands.4690673/) 
 
 
-![tool](https://github.com/user-attachments/assets/7ad07247-d3f0-4a1c-ad5a-98f069d22007)
+![toolV2](https://github.com/user-attachments/assets/a781b1d7-d3ab-4dde-ae3d-6340c3e8e128)
+
 
