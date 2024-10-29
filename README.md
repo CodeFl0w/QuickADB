@@ -29,6 +29,7 @@ This software uses ssut's payload-dumper-go for payload extraction functionality
 ### [View XDA Thread](https://xdaforums.com/t/tool-quickadb-a-gui-to-execute-adb-fastboot-commands.4690673/) 
 
 
-![toolV2](https://github.com/user-attachments/assets/a781b1d7-d3ab-4dde-ae3d-6340c3e8e128)
+![toolV2 0 1](https://github.com/user-attachments/assets/d9c1230d-c6f3-490e-a609-c45251812038)
+
 
 
