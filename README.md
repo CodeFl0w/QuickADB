@@ -1,7 +1,9 @@
-# QuickADB
 
-## a Python based GUI for ADB &amp; Fastboot commands
-Simple GUI created in Python in effort to make ADB &amp; Fastboot commands faster and easier for both beginners and experts. 
+   ![logo](https://github.com/user-attachments/assets/70412b0d-d1f6-432e-aaf4-32e535f2f5f2) 
+
+
+
+A simple GUI created in Python in effort to make ADB &amp; Fastboot commands faster and easier for both beginners and experts. 
 
 ## FEATURES
 
@@ -15,21 +17,30 @@ Fastboot section to reboot into different modes and checking getvar variables. S
 
 Flashing section to flash 24 different partitions via fastboot. Supports ".img" and ".bin" files.
 
-[V2.0.0] Advanced tab. Automatic driver installers, payload dumper powered by [@ssut's payload-dumper-go](https://github.com/ssut/payload-dumper-go), ADB debloater, Magisk installer and more.
+**[V2.0.0]** Advanced tab. Automatic driver installers, payload dumper powered by [@ssut's payload-dumper-go](https://github.com/ssut/payload-dumper-go), ADB debloater, Magisk installer and more.
+
+**[V3.0.0]** A fully automatic GSI Flasher, wireless ADB function, auto update checker for  the tool and a super.img dumper powered by [unix3dgforce's lpunpack script](https://github.com/unix3dgforce/lpunpack)
 ## NOTES
 
 **Always** keep an eye on the logs while flashing an image. If you get a faulty output, please use the terminal and flash the image manually before rebooting your device.
 
-Kaspersky and 6 unknown vendors flag QuickADB as trojan. This is a false-positive alert. It happens because the program was compiled with PyInstaller, so it doesn't have a signature.
+Kaspersky and 6 unknown vendors flag QuickADB as trojan. This is a false-positive alert. This happens because the program was compiled with PyInstaller, so it doesn't have a signature.
 
-This software uses ssut's payload-dumper-go for payload extraction functionality, which is licensed under the Apache License 2.0.
+
+This software uses [ssut's payload-dumper-go](https://github.com/ssut/payload-dumper-go) for payload extraction functionality, which is licensed under the Apache License 2.0.
+
+This software uses [unix3dgforce's lpunpack](https://github.com/unix3dgforce/lpunpack) for super image unpacking, which is licensed under the GNU Lesser General Public License v3.0 (LGPL-3.0).
+
+
+
 
 ### [Buy Me a Coffee](https://buymeacoffee.com/fl0w)
 
 ### [View XDA Thread](https://xdaforums.com/t/tool-quickadb-a-gui-to-execute-adb-fastboot-commands.4690673/) 
 
 
-![toolV2 0 1](https://github.com/user-attachments/assets/d9c1230d-c6f3-490e-a609-c45251812038)
+
+![toolV3 0 0](https://github.com/user-attachments/assets/6eab4ac9-cbe5-4f24-b218-ed5f68f753f6)
 
 
 
