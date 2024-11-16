@@ -15,7 +15,7 @@ ADB Section to execute the most needed ADB commands, including a quick Pull/Push
 
 Fastboot section to reboot into different modes and checking getvar variables. Supports locking and unlocking the bootloader. (****Command availability varies by device manufacturer.****)
 
-Flashing section to flash 24 different partitions via fastboot. Supports ".img" and ".bin" files.
+Flashing section to flash to 24 different partitions via fastboot. Supports ".img" and ".bin" files.
 
 **[V2.0.0]** Advanced tab. Automatic driver installers, payload dumper powered by [@ssut's payload-dumper-go](https://github.com/ssut/payload-dumper-go), ADB debloater, Magisk installer and more.
 
