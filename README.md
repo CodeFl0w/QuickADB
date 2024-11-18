@@ -34,13 +34,14 @@ This software uses [unix3dgforce's lpunpack](https://github.com/unix3dgforce/lpu
 
 
 
-### [Buy Me a Coffee](https://buymeacoffee.com/fl0w)
 
-### [View XDA Thread](https://xdaforums.com/t/tool-quickadb-a-gui-to-execute-adb-fastboot-commands.4690673/) 
 
+
+[<img width="500" alt="bmc-button" src="https://github.com/user-attachments/assets/2a3f0ad2-ac4d-41b2-ae26-eade44d2dc78">](https://buymeacoffee.com/fl0w)[<img width="500" alt="xda_button" src="https://github.com/user-attachments/assets/7559f853-2ac2-4715-b3a3-9fd0c0d0abda">](https://xdaforums.com/t/tool-quickadb-a-gui-to-execute-adb-fastboot-commands.4690673/) 
 
 
 ![toolV3 0 0](https://github.com/user-attachments/assets/6eab4ac9-cbe5-4f24-b218-ed5f68f753f6)
+
 
 
 
